@@ -1,0 +1,14 @@
+header{
+    border-bottom: 1px solid black;
+    
+}
+nav {
+    display: inline-block;
+    color: rgb(29, 234, 29);
+}
+li{
+    display: inline-block;
+}
+html{
+    font-family: Helvetica, sans-serif;
+}
