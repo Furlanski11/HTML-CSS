@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    background: rgb(238, 238, 238);
+    height: 50vh;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0;
+}
+h1 {
+    
+    border-bottom-width: 3px;
+    border-bottom-color: black;
+    border-bottom-style: solid ;
+}
+footer {
+    margin-top: 171px;
+    color: rgb(255, 255, 255);
+    background: rgb(102, 102, 102);
+}
