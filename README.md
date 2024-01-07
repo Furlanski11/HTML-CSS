@@ -11,13 +11,13 @@ Acquired Skills:
 
 Styling websites with CSS.
 
-Building basic web pages
+Building basic web pages.
 
-Ability to create static web pages
+Ability to create static web pages.
 
-Creating adaptive (responsive) web design
+Creating adaptive (responsive) web design.
 
-Building modern websites
+Building modern websites.
 
 
 
